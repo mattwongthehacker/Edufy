@@ -6,6 +6,7 @@ text-align: left;
 .logo-image {
   width: 250px;
   height: 125px;
+  margin-left: 10px;
 }
 
 H2{ margin: 10px 20px 40px 20px;
