@@ -1,0 +1,23 @@
+H1{
+color: green;
+text-align: left;
+}
+
+H2{
+color: green;
+text-align: left;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+body {
+text-align: center;
+
+}
+
+th, td {
+  font-size: 50px;
+}
